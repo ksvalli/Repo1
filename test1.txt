@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is B898-239C
+
+ Directory of C:\Users\svall\Desktop\MyProject
+
+09/25/2018  03:25 PM    <DIR>          .
+09/25/2018  03:25 PM    <DIR>          ..
+09/25/2018  03:25 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  841,459,937,280 bytes free
